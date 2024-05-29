@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hongn\\Desktop\\HtmlToPdf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F829AEA-B8C7-47A5-A676-BF12BDF1F2BE}|HtmlToPdf\\HtmlToPdf.csproj|c:\\users\\hongn\\desktop\\htmltopdf\\htmltopdf\\controllers\\htmltopdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F829AEA-B8C7-47A5-A676-BF12BDF1F2BE}|HtmlToPdf\\HtmlToPdf.csproj|solutionrelative:htmltopdf\\controllers\\htmltopdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtmlToPdfController.cs",
+              "DocumentMoniker": "C:\\Users\\hongn\\Desktop\\HtmlToPdf\\HtmlToPdf\\Controllers\\HtmlToPdfController.cs",
+              "RelativeDocumentMoniker": "HtmlToPdf\\Controllers\\HtmlToPdfController.cs",
+              "ToolTip": "C:\\Users\\hongn\\Desktop\\HtmlToPdf\\HtmlToPdf\\Controllers\\HtmlToPdfController.cs",
+              "RelativeToolTip": "HtmlToPdf\\Controllers\\HtmlToPdfController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAB4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:20:24.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

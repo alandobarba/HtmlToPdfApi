@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzpjXoOhSUUa6JJSyZbqlQgAAAAACAAAAAAAQZgAAAAEAACAAAACaeOs6+sZi5KjSwyrhNfI5kEjni8zxZ9F7gOxe3KlBhgAAAAAOgAAAAAIAACAAAAAkdA5xyk+i++gVGNm912nI8omz07Qm2MCuz4m6toO/ZSAAAAAg+yb9feOvEtODIqzWgfur6psnEeoZg+uRaYRQTytUMUAAAABwfc1QZQ9XNt8qe0Bx0PwrhRosRW+CiB245S1R3TBaXh4CjFlwwHmLr5JEcnD6/PWUfko6JXCdGMavbjfH1u49</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.27/www.apibarba.somee.com</_PublishTargetUrl>
+    <History>True|2024-05-26T01:31:14.9575526Z;True|2024-05-25T21:16:13.2380815-04:00;False|2024-05-25T21:12:07.9119397-04:00;True|2024-05-25T20:43:29.8855187-04:00;True|2024-05-25T20:30:14.2414003-04:00;True|2024-05-25T19:13:18.1624833-04:00;True|2024-05-24T14:33:15.0878003-04:00;True|2024-05-23T00:05:27.1156436-04:00;True|2024-05-22T23:16:02.2633059-04:00;True|2024-05-19T23:21:35.7365387-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/19/2024 11:18:42</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/19/2024 11:18:42</publishTime>
+    </File>
+    <File Include="HtmlToPdf.deps.json">
+      <publishTime>05/28/2024 20:57:28</publishTime>
+    </File>
+    <File Include="HtmlToPdf.dll">
+      <publishTime>05/28/2024 20:57:27</publishTime>
+    </File>
+    <File Include="HtmlToPdf.exe">
+      <publishTime>05/28/2024 20:57:27</publishTime>
+    </File>
+    <File Include="HtmlToPdf.pdb">
+      <publishTime>05/28/2024 20:57:27</publishTime>
+    </File>
+    <File Include="HtmlToPdf.runtimeconfig.json">
+      <publishTime>05/19/2024 23:21:12</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>11/15/2019 03:38:02</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 16:14:12</publishTime>
+    </File>
+    <File Include="Microsoft.Win32.SystemEvents.dll">
+      <publishTime>05/15/2018 09:29:34</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 16:03:36</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll">
+      <publishTime>09/18/2018 15:38:14</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll">
+      <publishTime>05/15/2018 09:29:34</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll">
+      <publishTime>09/18/2018 15:38:14</publishTime>
+    </File>
+    <File Include="Select.Html.dep">
+      <publishTime>12/05/2023 05:17:18</publishTime>
+    </File>
+    <File Include="Select.HtmlToPdf.dll">
+      <publishTime>12/05/2023 05:17:18</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 11:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 11:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 11:21:48</publishTime>
+    </File>
+    <File Include="System.Drawing.Common.dll">
+      <publishTime>09/18/2018 15:38:14</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/28/2024 20:57:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
